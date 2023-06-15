@@ -2,5 +2,3 @@ The folling are the working area of Local Git repo
 i . working area
 ii. Staging area
 iii. Commit area
-
-we want to add more line
